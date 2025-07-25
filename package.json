@@ -1,0 +1,17 @@
+{
+  "name": "musicbeat-backend",
+  "version": "1.0.0",
+  "description": "Simple backend for MusicBeat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
